@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Insights
 
-[![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sain-Kai&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sain-Kai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sohan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sain-Kai&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Sain-Kai&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
