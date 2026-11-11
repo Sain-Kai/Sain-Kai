@@ -32,4 +32,4 @@
 ---
 
 📬 **Connect with me:**  
-💼 [LinkedIn](https://linkedin.com/in/sohanmanna38) | 📧 sohanmanna38@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/sohanmanna38) | 📊 [Kaggle](https://www.kaggle.com/sohanmanna) | 📧 sohanmanna38@gmail.com
