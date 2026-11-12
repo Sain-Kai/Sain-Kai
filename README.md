@@ -1,35 +1,188 @@
-## Hi there 👋
-# Hi there, I'm Sohan Manna 👋
+<!-- ============================================================ -->
+<!--                            HEADER                            -->
+<!-- ============================================================ -->
+<div align="center">
 
-**Software Developer & Computer Science Student at VIT**  
-🚀 Former SDE Intern at Bluestock Fintech | Passionate about Systems Architecture, Scalable Backends, and AI.
+# Sohan Manna
+
+#### CSE Undergrad @ VIT '27 · Backend & AI Engineer · Ex-SDE Intern @ Bluestock Fintech
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+Scalable+Backends+%26+AI+Systems;Python+%E2%80%A2+Java+%E2%80%A2+Rust+%E2%80%A2+C%2B%2B;Systems+Architecture+%E2%80%A2+RAG+%E2%80%A2+LLMOps+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- ============================================================ -->
+<!--                       SOCIAL + METRICS                       -->
+<!-- ============================================================ -->
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sain-Kai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohanmanna38)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sohanmanna)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://sain-kai.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohanmanna38@gmail.com)
+
+[![Followers](https://img.shields.io/github/followers/Sain-Kai?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/Sain-Kai?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Sain-Kai&label=Profile%20Views&color=0077B5&style=for-the-badge)
+
+</div>
 
 ---
 
-### 🛠️ Technical Toolkit
+<!-- ============================================================ -->
+<!--                       BRAND STATEMENT                        -->
+<!-- ============================================================ -->
+<div align="center">
 
-*   **Languages:** Python, Java, Rust, C++, JavaScript, Kotlin, C, SQL
-*   **Backend & APIs:** FastAPI, Spring Boot (Spring Data JPA, Hibernate ORM), REST API Design, Async Programming
-*   **DevOps & Tools:** Docker, Git, GitHub Actions, Linux, CI/CD, IntelliJ IDEA, PyCharm
-*   **AI & Data Science:** PyTorch, Scikit-learn, LangChain, RAG Pipelines, YOLO v11
+### 🚀 _"I design scalable backends and AI systems — from C++ game engines to real-time edge inference — and ship them end to end."_
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👋 Who I Am
+
+I'm **Sohan Manna** (a.k.a. **Sain-Kai**) — a **Computer Science undergraduate at VIT (Class of '27)** and former **SDE Intern at Bluestock Fintech**.
+
+I'm passionate about **systems architecture, scalable backends, and AI**. I move between Python/FastAPI and Spring Boot services, RAG pipelines, edge ML, and low-level C++/Rust work.
+
+</td>
+<td width="40%" valign="top">
+
+## ⚡ At a Glance
+
+```yaml
+name:      Sohan Manna
+handle:    Sain-Kai
+role:      CSE Undergrad '27
+focus:     Backend · AI · LLMOps
+stack:     Python · Java · Rust · C++
+learning:  Distributed Systems · LLMOps
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💻 Featured Projects
+<!-- ============================================================ -->
+<!--                          TECH STACK                          -->
+<!-- ============================================================ -->
+## 🧰 Tech Stack
 
-*   **⚡ [Cyrus Engine](https://github.com/Sain-Kai/Cyrus-Engine)** – A modular, cross-platform C++ game engine featuring a custom ECS (Entity Component System) with cache-friendly data layouts and a platform abstraction layer for Windows/Linux/macOS.
-*   **👁️ Zeno Surveillance System** – A distributed Python backend orchestrating real-time YOLO v11 inference on Edge TPUs with sub-30ms latency, utilizing a consensus algorithm across autonomous nodes to cut false positives by 85%.
-*   **📦 Return Intelligence & Inventory System** – A Python ML pipeline optimized via Optuna (lifting accuracy to 96%) and deployed as a containerized FastAPI async REST service to slash latency.
-*   **☕ Book Management System** – A robust Spring Boot application implementing clean MVC/SOLID architecture, global exception handling, and full JUnit test coverage.
+**Languages**
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,rust,cpp,c,js,kotlin,mysql&theme=dark" alt="languages" />
+</div>
+
+**Backend & APIs**
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,spring,hibernate&theme=dark" alt="backend" />
+</div>
+
+**DevOps & Tools**
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,githubactions,linux,idea,pycharm&theme=dark" alt="devops" />
+</div>
+
+**AI & Data Science**
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,langchain&theme=dark" alt="ai" />
+</div>
 
 ---
 
-### 📊 GitHub Insights
+<!-- ============================================================ -->
+<!--                      FEATURED PROJECTS                       -->
+<!-- ============================================================ -->
+## 💻 Featured Projects
 
-[![Sohan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sain-Kai&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Sain-Kai&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Cyrus Engine](https://github.com/Sain-Kai/Cyrus-Engine)
+Modular, cross-platform **C++ game engine** with a custom **ECS** (cache-friendly data layouts) and a platform abstraction layer for Windows / Linux / macOS.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-58A6FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Zeno Surveillance System
+Distributed **Python** backend running real-time **YOLO v11** inference on Edge TPUs at **sub-30ms latency**, with a consensus algorithm across autonomous nodes that cuts false positives by **85%**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO_v11-00FFFF?style=flat-square&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Return Intelligence & Inventory System
+**ML pipeline** tuned with **Optuna** (accuracy up to **96%**) and deployed as a containerized, async **FastAPI** REST service to cut latency.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Book Management System
+Robust **Spring Boot** app with clean **MVC / SOLID** architecture, global exception handling, and full **JUnit** test coverage.
+
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-📬 **Connect with me:**  
-💼 [LinkedIn](https://linkedin.com/in/sohanmanna38) | 📊 [Kaggle](https://www.kaggle.com/sohanmanna) | 📧 sohanmanna38@gmail.com
+<!-- ============================================================ -->
+<!--                  GITHUB METRICS & STATS DASHBOARD             -->
+<!-- ============================================================ -->
+## 📊 GitHub Metrics & Stats Dashboard
+
+<div align="center">
+
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=Sain-Kai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sain-Kai&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sain-Kai&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sain-Kai&theme=github_dark" width="100%" alt="profile summary"/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sain-Kai&theme=github_dark" alt="repos per language"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sain-Kai&theme=github_dark&utcOffset=5" alt="productive time"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sain-Kai&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/Sain-Kai)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                           FOOTER                             -->
+<!-- ============================================================ -->
+<div align="center">
+
+📬 **Let's connect** — [LinkedIn](https://linkedin.com/in/sohanmanna38) · [Kaggle](https://www.kaggle.com/sohanmanna) · [Email](mailto:sohanmanna38@gmail.com)
+
+**_Thanks for visiting — let's build something together._**
+
+⭐️ If you like a project, [follow me](https://github.com/Sain-Kai) or star a repo.
+
+</div>
