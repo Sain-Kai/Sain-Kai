@@ -78,25 +78,44 @@ learning:  Distributed Systems · LLMOps
 **Languages**
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,rust,cpp,c,js,kotlin,mysql&theme=dark" alt="languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
 **Backend & APIs**
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,spring,hibernate&theme=dark" alt="backend" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring_Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST_APIs" />
 </div>
 
 **DevOps & Tools**
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,githubactions,linux,idea,pycharm&theme=dark" alt="devops" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub_Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ_IDEA" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </div>
 
 **AI & Data Science**
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,langchain&theme=dark" alt="ai" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit--learn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/YOLO_v11-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="YOLO_v11" />
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
 </div>
 
 ---
@@ -113,7 +132,7 @@ learning:  Distributed Systems · LLMOps
 ### ⚡ [Cyrus Engine](https://github.com/Sain-Kai/Cyrus-Engine)
 Modular, cross-platform **C++ game engine** with a custom **ECS** (cache-friendly data layouts) and a platform abstraction layer for Windows / Linux / macOS.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-58A6FF?style=flat-square)
 
 </td>
@@ -168,7 +187,6 @@ Robust **Spring Boot** app with clean **MVC / SOLID** architecture, global excep
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sain-Kai&theme=github_dark" alt="repos per language"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sain-Kai&theme=github_dark&utcOffset=5" alt="productive time"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sain-Kai&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/Sain-Kai)
 
 </div>
 
