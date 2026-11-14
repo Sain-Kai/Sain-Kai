@@ -171,24 +171,31 @@ Robust **Spring Boot** app with clean **MVC / SOLID** architecture, global excep
 ---
 
 <!-- ============================================================ -->
-<!--                  GITHUB METRICS & STATS DASHBOARD             -->
+<!--            GITHUB STATISTICS (single unified section)         -->
 <!-- ============================================================ -->
-## 📊 GitHub Metrics & Stats Dashboard
+## 📊 GitHub Statistics
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<img height="170em" src="https://github-stats-extended.vercel.app/api?username=Sain-Kai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
-<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sain-Kai&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+<!-- Row 1: three equal overview cards -->
+<table width="100%">
+<tr>
+<td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sain-Kai&theme=github_dark" width="100%" /></td>
+<td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sain-Kai&theme=github_dark&exclude=jupyter%20Notebook" width="100%" /></td>
+<td width="33%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sain-Kai&theme=github_dark&exclude=jupyter%20Notebook" width="100%" /></td>
+</tr>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sain-Kai&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sain-Kai&theme=github_dark" width="100%" alt="profile summary"/>
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sain-Kai&theme=github_dark" alt="repos per language"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sain-Kai&theme=github_dark&utcOffset=5" alt="productive time"/>
-
-
-</div>
+<!-- Rows 2 + 3 share one table so the profile card stretches to the same width as the rows above -->
+<table width="100%">
+<tr>
+<td width="60%" align="center"><img src="https://streak-stats.demolab.com?user=Sain-Kai&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak" /></td>
+<td width="40%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sain-Kai&theme=github_dark&utcOffset=5" width="100%" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sain-Kai&theme=github_dark" width="100%" /></td>
+</tr>
+</table>
 
 ---
 
@@ -204,3 +211,6 @@ Robust **Spring Boot** app with clean **MVC / SOLID** architecture, global excep
 ⭐️ If you like a project, [follow me](https://github.com/Sain-Kai) or star a repo.
 
 </div>
+
+<!-- Wavy water footer -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
